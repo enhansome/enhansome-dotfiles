@@ -1,44 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles"
-    },
-    {
-      "description": "A collection of the most popular, well-maintained, and collaborative dotfiles repositories & frameworks. Some projects contain just the dotfiles. Others go further by allowing you to easily add your own custom dotfiles, and some include scripts to manage dotfiles and plugins.",
-      "items": [],
-      "title": "Example dotfiles repos"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bash"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Zsh"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Fish"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ansible"
-    },
-    {
-      "description": "To the extent possible under law, Lars Kappert has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T17:13:20.148Z",
+    "last_updated": "2026-08-19T12:25:22.709Z",
     "original_repository": "webpro/awesome-dotfiles",
+    "original_repository_id": 21900980,
     "original_repository_sha": "d9de2abf9efeeea0bf1285b834bfe6e3cfa89168",
     "enhanced_repository": "enhansome/enhansome-dotfiles",
     "enhanced_repository_description": null,
