@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T18:28:35.666Z",
-    "original_repository": "webpro/awesome-dotfiles",
-    "original_repository_id": 21900980,
+    "last_updated": "2026-08-27T11:34:30.529Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 21900980,
+      "language": null,
+      "last_commit": "2026-07-26T07:05:04Z",
+      "owner": "webpro",
+      "repo": "awesome-dotfiles",
+      "stars": 10832
+    },
     "original_repository_sha": "d9de2abf9efeeea0bf1285b834bfe6e3cfa89168",
     "enhanced_repository": "enhansome/enhansome-dotfiles",
     "enhanced_repository_description": null,
