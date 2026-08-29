@@ -1,15 +1,31 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-29T00:44:42.842Z",
+    "last_updated": "2026-08-29T04:16:48.096Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of dotfiles resources.",
+      "homepage": null,
       "id": 21900980,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-26T07:05:04Z",
+      "open_issues": 3,
       "owner": "webpro",
       "repo": "awesome-dotfiles",
-      "stars": 10837
+      "stars": 10837,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bash",
+        "dotfiles",
+        "dotfiles-resources",
+        "fish",
+        "list",
+        "shell",
+        "tools",
+        "zsh"
+      ]
     },
     "original_repository_sha": "d9de2abf9efeeea0bf1285b834bfe6e3cfa89168",
     "enhanced_repository": "enhansome/enhansome-dotfiles",
