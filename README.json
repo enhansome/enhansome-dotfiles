@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T01:10:47.889Z",
+    "last_updated": "2026-08-29T00:44:42.842Z",
     "original_repository_info": {
       "archived": false,
       "id": 21900980,
@@ -9,7 +9,7 @@
       "last_commit": "2026-07-26T07:05:04Z",
       "owner": "webpro",
       "repo": "awesome-dotfiles",
-      "stars": 10835
+      "stars": 10837
     },
     "original_repository_sha": "d9de2abf9efeeea0bf1285b834bfe6e3cfa89168",
     "enhanced_repository": "enhansome/enhansome-dotfiles",
