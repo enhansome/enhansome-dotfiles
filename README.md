@@ -228,17 +228,17 @@ work.
 
 [23]: https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/
 
-[24]: http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
+[24]: https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
 
 [25]: https://spin.atomicobject.com/manage-dotfiles-gnu-stow/
 
-[26]: http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html
+[26]: https://blog.palcu.net/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 
 [27]: https://github.com/search?q=dotfiles&type=Repositories
 
 [28]: https://www.google.nl/search?q=dotfiles
 
-[29]: https://wiki.archlinux.org/index.php/Dotfiles
+[29]: https://wiki.archlinux.org/title/Dotfiles
 
 [30]: https://github.com/search?type=code&q=path%3A**%2F.gitconfig
 
@@ -306,7 +306,7 @@ work.
 
 [62]: https://freshshell.com
 
-[63]: http://www.gnu.org/software/stow/
+[63]: https://www.gnu.org/software/stow/
 
 [64]: https://github.com/nix-community/home-manager
 
@@ -360,7 +360,7 @@ work.
 
 [89]: https://github.com/k4m4/terminals-are-sexy
 
-[90]: http://antigen.sharats.me
+[90]: https://antigen.sharats.me
 
 [91]: https://github.com/bashdot/bashdot
 
@@ -390,7 +390,7 @@ work.
 
 [104]: https://github.com/kevinSuttle/macOS-Defaults
 
-[105]: http://osxc.github.io
+[105]: https://osxc.github.io
 
 [106]: https://github.com/pearl-core/pearl
 
@@ -414,4 +414,4 @@ work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

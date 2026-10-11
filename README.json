@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-10T20:20:27.082Z",
+    "last_updated": "2026-10-11T20:37:39.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of dotfiles resources.",
@@ -9,11 +9,11 @@
       "id": 21900980,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-26T07:05:04Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-11T07:59:17Z",
+      "open_issues": 4,
       "owner": "webpro",
       "repo": "awesome-dotfiles",
-      "stars": 10895,
+      "stars": 10897,
       "topics": [
         "awesome",
         "awesome-list",
@@ -27,7 +27,7 @@
         "zsh"
       ]
     },
-    "original_repository_sha": "d9de2abf9efeeea0bf1285b834bfe6e3cfa89168",
+    "original_repository_sha": "a6bf526494f0923adc30f9d4bf631019091155f6",
     "enhanced_repository": "enhansome/enhansome-dotfiles",
     "enhanced_repository_description": null,
     "title": "Awesome Dotfiles with stars"
