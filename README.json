@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-03T22:04:03.761Z",
+    "last_updated": "2026-11-04T22:15:19.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of dotfiles resources.",
@@ -13,7 +13,7 @@
       "open_issues": 3,
       "owner": "webpro",
       "repo": "awesome-dotfiles",
-      "stars": 10925,
+      "stars": 10926,
       "topics": [
         "awesome",
         "awesome-list",
